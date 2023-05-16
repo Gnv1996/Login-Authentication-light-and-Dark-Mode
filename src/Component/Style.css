@@ -1,0 +1,22 @@
+.contain{
+    width: 500px;
+   border: 2px solid silver;
+   margin-top: 100px;
+   border-radius: 10px;
+}
+.item{
+    display: flex;
+}
+.item h1{
+    margin-right: 40px; 
+}
+
+.btk{
+    width: 40px;
+    height: 30px;
+}
+.btk{
+    width: 80px !important;
+    height: 40px !important;
+    margin-top: 28px;
+}
